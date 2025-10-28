@@ -21,8 +21,9 @@
 ---
 
 ## 📂 Files
-- `salary_analysis.ipynb` — main analysis notebook
+- `Notebook.ipynb` — main analysis notebook
 - `ds_salaries.csv` — dataset (from Kaggle)
+- `app.py` - streamlit app file
 - `README.md` — project summary
 
 ---
