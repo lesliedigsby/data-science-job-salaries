@@ -33,4 +33,7 @@
 
 ---
 
+## Dashboard Preview<img width="2258" height="1510" alt="image" src="https://github.com/user-attachments/assets/c3298151-be5e-48f9-bf02-074d7dec40fc" />
+
+
 Dataset source: [Kaggle - Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
