@@ -11,6 +11,12 @@ This dashboard presents an analysis of data science job salaries based on variou
 Using the 2023 Data Science Job Salaries dataset from Kaggle.
 """)
 
+st.markdown("""
+            **Author:** Leslie Digsby  
+            **Dataset Source:** [Kaggle - Data Science Job Salaries 2023](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+            **Description: Interactive dashboard analyzing salary trends in data science across roles, experience levels, and remote work ratios.
+            """)
+
 @st.cache_data
 def load_data():
     df = pd.read_csv('ds_salaries.csv')
